@@ -41,7 +41,8 @@ $('#element').mayTriggerLongClicks({
 
 ### Settings
 
-Two optional parameters `shortDelay` and `longDelay` allow to define the delay before each click is triggered.
+Two optional parameters `shortDelay` and `longDelay` allow to define the delay before each click is triggered.\
+By default, **shortDelay** is defined to 300ms and **longDelay** is defined to 800ms.
 
 Note that if the longDelay value **is lower** than shortDelay, shortDelay and shortClickReached will never be triggered.
 
