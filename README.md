@@ -10,7 +10,7 @@ Use on command line:
 npm install [-g] jquery.longclicks
 ```
 
-or insert this line in the <head> tag of your JS file:
+or insert this line in the **\<head\>** tag of your JS file:
 
 ```js
 <script src="https://cdn.jsdelivr.net/npm/jquery.longclicks@1.0.0/plugin/jquery.longclicks.min.js"></script>
